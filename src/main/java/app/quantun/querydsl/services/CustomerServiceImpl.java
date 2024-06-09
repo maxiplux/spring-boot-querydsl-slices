@@ -2,7 +2,6 @@ package app.quantun.querydsl.services;
 
 import app.quantun.querydsl.models.Customer;
 import app.quantun.querydsl.models.QCustomer;
-import app.quantun.querydsl.repositories.CustomerRepository;
 import app.quantun.querydsl.repositories.CustomerSliceRepository;
 import app.quantun.querydsl.repositories.dtos.CustomerSearchDTO;
 import org.springframework.beans.factory.annotation.Autowired;
